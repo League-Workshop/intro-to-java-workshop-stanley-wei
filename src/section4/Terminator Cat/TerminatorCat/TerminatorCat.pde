@@ -11,7 +11,7 @@ void setup() {
 }
 
 void draw() {
-  if (mousePressed) {
+  if (true) {
     y-=2*acceleration;
     x-=2*acceleration;
   }
